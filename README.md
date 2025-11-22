@@ -2,6 +2,23 @@
 
 eu gosto bastante dos jogos de pokêmon porém tem um pequeno problema que no competitivo tem favoritos e acaba deixando todos os outros pokêmons para trás no competitivo, meu objeitov e simular cálculos para melhorar as batalhas dando espaço a todos os pokêmons, eu costumava colocar só pokêmons fortes no time com atauqes ofensivos no time mas o jogo original foi mlehorando mas ainda sim eles tem seus favoritos.
 
+# estrutura 
+/meu_jogo/<br>
+│<br>
+├── data/<br>
+│   └── pokemons.json<br>
+│<br>
+├── engine/<br>
+│   ├── pokemon.py<br>
+│   ├── batalha.py<br>
+│   └── habilidade.py<br>
+│<br>
+├── web/   (se depois rodar na web)<br>
+│<br>
+└── main.py<br>
+
+
+
 # idéia
 
 A idéia principal é o equilíbrio, pokêmons grandes vão tem muito HP <br>
@@ -26,4 +43,4 @@ tirando aquilo de pokêmon forte com ataque forte vencer todo mundo fácil
 - pokémons do tipo água vão ter imunidade ao tipo água 
 - todos os pokèmons do tipo grama vão ter uma habilidade intrisseca a eles de recuperar a vida na chuva e aumentar o super ataque ou ataque no dia se sol porém planta só vai ter resistência contra tipo planta e não imunidade
 
-- 
+# como estruturar o jogo ?  

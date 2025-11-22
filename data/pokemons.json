@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Charizard",
+        "hp": 22,
+        "forca": 12,
+        "resistencia": 12,
+        "atk_especial": 12,
+        "def_especial": 1,
+        "velocidade": 26,
+        "agilidade": 98,
+        "tipos": [
+            "fogo",
+            "voador",
+            "dragao"
+        ],
+        "habilidades": [
+            {
+                "nome": "Turbinas Aquecidas",
+                "descricao": "Aumenta a velocidade se não estiver chovendo"
+            }
+        ]
+    },
+    {
+        "nome": "Pikachu",
+        "hp": 22,
+        "forca": 12,
+        "resistencia": 12,
+        "atk_especial": 12,
+        "def_especial": 1,
+        "velocidade": 76,
+        "agilidade": 98,
+        "tipos": [
+            "eletrico"
+        ],
+        "habilidades": [
+            {
+                "nome": "Sincronização Estática",
+                "descricao": "Pode paralisar quem tocar"
+            }
+        ]
+    }
+]
