@@ -1,15 +1,11 @@
 import json 
 
-# importação dos dados json
-def ImportarJson():
-    with open("dados.json","r") as file:
-        dados = json.load(file)
-        return dados
+from importarJson import ImportarJson
 
 
 def main():
-    dados = ImportarJson()
-    print(dados)
+    pokemons = ImportarJson()
+    print(pokemons)
     
 if __name__ == "__main__":
     main()

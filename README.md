@@ -15,3 +15,15 @@ charizard 100 de velocidade <br>
 pikachu 80 de agilidade <br>
 o ataque será lança chamas que é um `tiro lento` que vai subtrair -20 de veloricade no cálculo
 tendo 0% de chance de acertar 
+
+- resalva 
+todos esses cálculos vão ser ajustados com base na batalha tornando ela mais competitiva e mais divertida <br>
+tirando aquilo de pokêmon forte com ataque forte vencer todo mundo fácil
+
+# mudança de vantagens e desvantagens
+
+- pokèmons do tipo fogo vão ter imunidade ao tipo fogo
+- pokémons do tipo água vão ter imunidade ao tipo água 
+- todos os pokèmons do tipo grama vão ter uma habilidade intrisseca a eles de recuperar a vida na chuva e aumentar o super ataque ou ataque no dia se sol porém planta só vai ter resistência contra tipo planta e não imunidade
+
+- 
